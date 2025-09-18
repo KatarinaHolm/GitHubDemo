@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string message = "Det är är ett test för att förstå GitHub.";
+
+            Console.WriteLine(message);
         }
     }
 }
